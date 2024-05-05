@@ -1,0 +1,1 @@
+In this we have extracted all the features to respective diamond images and we converted extracted features into a single csv file (new_diamonds.csv) and by using that we trained the model.
